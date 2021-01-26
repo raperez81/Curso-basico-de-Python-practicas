@@ -1,2 +1,5 @@
 # Curso-basico-de-Python-practicas
-Contiene scripts de practica de los conceptos basicos de python como: declaracion de variables, ciclos, etc
+Contiene scripts de práctica de los conceptos básicos de Python como: declaración de variables, ciclos, etc
+
+Estos conceptos fueron vistos en el Curso Básico de Python https://platzi.com/clases/python/ 
+
